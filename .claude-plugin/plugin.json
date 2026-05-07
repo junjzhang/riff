@@ -1,0 +1,9 @@
+{
+  "name": "riff",
+  "description": "Structured human-agent collaboration workflows — brief, learn, explain, design — producing rich visual documents in a per-task workspace.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Junjie Zhang"
+  },
+  "license": "MIT"
+}
