@@ -12,15 +12,12 @@
       "author": {
         "name": "Junjie Zhang"
       },
-      "category": "productivity",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/junjzhang/riff.git",
-        "path": ".",
-        "ref": "main",
-        "sha": "c18ca9b663f24a3658c6f977b0c1bbeaf1f7f993"
-      },
-      "homepage": "https://github.com/junjzhang/riff"
+        "source": "github",
+        "repo": "junjzhang/riff",
+        "commit": "f509417fb6e7fe268dcecda8d064db8e9f325034",
+        "sha": "f509417fb6e7fe268dcecda8d064db8e9f325034"
+      }
     }
   ]
 }
