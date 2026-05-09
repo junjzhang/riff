@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "riff",
+  "description": "Structured human-agent collaboration workflows — brief, learn, explain, design",
+  "owner": {
+    "name": "Junjie Zhang"
+  },
+  "plugins": [
+    {
+      "name": "riff",
+      "description": "Structured human-agent collaboration workflows — brief, learn, explain, design — producing rich visual documents in a per-task workspace.",
+      "author": {
+        "name": "Junjie Zhang"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/junjzhang/riff.git",
+        "path": ".",
+        "ref": "main",
+        "sha": "2afeb7539a3323b786096f5df017f3a8b0bbf303"
+      },
+      "homepage": "https://github.com/junjzhang/riff"
+    }
+  ]
+}

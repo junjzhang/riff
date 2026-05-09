@@ -31,11 +31,13 @@ The typical flow: **brief** (what's the problem?) → **learn** (understand the 
 ## Install
 
 ```bash
-# From GitHub marketplace
-/plugin marketplace add cmriat/riff
-/plugin install riff@riff
+claude plugin marketplace add junjzhang/riff
+claude plugin install riff@riff
+```
 
-# Or during development
+For local development:
+
+```bash
 claude --plugin-dir /path/to/riff
 ```
 
